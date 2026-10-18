@@ -1,13 +1,13 @@
 # FCA-Insurance-Complaints-Analysis
 An Excel-based analysis of Financial Conduct Authority (FCA) complaints data for July - December 2025, focusing on the Insurance & Pure Protection sector.
 
-**Project Overview**
+## **Project Overview**
 
 This project examines how 15 selected UK insurance firms compare in terms of complaint frequency and complaint-handling performance.
 I wanted to understand whether firms receiving fewer complaints relative to their size also tended to resolve complaints more quickly, and identify areas that might benefit from further investigation.
 The analysis uses publicly available FCA data and includes a comparative ranking, Excel dashboard and written findings.
 
-**Dataset and Methodology**
+## **Dataset and Methodology**
 
 Data source: FCA Firm-Level Complaints Data, 2025 H2 (July–December 2025).
 
@@ -26,7 +26,7 @@ I compared the firms using:
 - Percentage closed after eight weeks.
 - Percentage of complaints upheld.
 
-**Ranking Method**
+## **Ranking Method**
 
 I created a combined performance ranking using two measures:
 - Complaint rate: Lower complaints per 1,000 policies received a stronger rank.
@@ -38,7 +38,7 @@ Both measures were given equal weight:
 
 The uphold rate was analysed separately rather than included in the combined score, as it is not necessarily a direct measure of complaint-handling quality.
 
-**Key Findings**
+## **Key Findings**
 
 1. Assurant performed strongest under the combined ranking.
 Assurant General Insurance Limited recorded 1.18 complaints per 1,000 policies and closed 99.08% of complaints within eight weeks. It achieved the strongest combined ranking in the selected sample.
@@ -52,7 +52,7 @@ Liverpool Victoria Insurance Company Limited closed 84.27% of complaints within 
 4. Complaint frequency and closure speed did not always align.
 AXA PPP Healthcare Limited recorded a relatively high complaint rate of 12.25 per 1,000 policies, while still closing 98.48% of complaints within eight weeks. This highlights the importance of considering multiple performance measures.
 
-**Excel Skills Demonstrated**
+## **Excel Skills Demonstrated**
 
 - Data cleaning and organisation.
 - Filtering and selection using defined criteria.
@@ -62,7 +62,7 @@ AXA PPP Healthcare Limited recorded a relatively high complaint rate of 12.25 pe
 - Data visualisation using Excel charts.
 - Interpreting results and identifying areas for further investigation.
 
-**Workbook Structure**
+## **Workbook Structure**
 
 | Worksheet | Purpose |
 |---|---|
@@ -74,7 +74,7 @@ AXA PPP Healthcare Limited recorded a relatively high complaint rate of 12.25 pe
 | 10_Dashboard | Visual comparison of complaint rates and closure performance |
 | 11_Findings | Written findings, recommendations and limitations |
 
-**Limitations**
+## **Limitations**
 - The analysis covers only one six-month reporting period, so it cannot identify trends over time.
 - The selected firms may differ in their products, customers and business models.
 - Equal weighting of the two ranking measures is a subjective analytical decision.
@@ -82,12 +82,11 @@ AXA PPP Healthcare Limited recorded a relatively high complaint rate of 12.25 pe
 - The data identifies differences in performance but does not establish their underlying causes.
 - The rankings are my own analytical framework and do not represent official FCA assessments or ratings.
 
-**Files**
+## **Files**
 
-View the completed Excel analysis
-The workbook includes the original data tables, selection process, calculations, dashboard and written analysis.
+[View the completed Excel analysis](UK_Insurance_Complaints_Analysis.xlsx)
 
-**Data Sources**
+## **Data Sources**
 
 FCA — Firm-Level Complaints Data: https://www.fca.org.uk/data/complaints-data/firm-level
 
