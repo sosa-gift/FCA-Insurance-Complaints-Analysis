@@ -7,6 +7,10 @@ This project examines how 15 selected UK insurance firms compare in terms of com
 I wanted to understand whether firms receiving fewer complaints relative to their size also tended to resolve complaints more quickly, and identify areas that might benefit from further investigation.
 The analysis uses publicly available FCA data and includes a comparative ranking, Excel dashboard and written findings.
 
+## **Excel Dashboard**
+
+![FCA Insurance Complaints Dashboard](dashboard.png)
+
 ## **Dataset and Methodology**
 
 Data source: FCA Firm-Level Complaints Data, 2025 H2 (July–December 2025).
